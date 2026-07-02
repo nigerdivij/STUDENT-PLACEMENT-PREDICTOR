@@ -12,7 +12,7 @@ A machine learning web app that predicts whether a student is likely to be place
 
 ## 🚀 Demo
 
-🔗 **[Live App](#)** *(add your Streamlit Cloud link here after deployment)*
+🔗 **[Live App](#)** *(https://student-placement-predictor-vuww2bvzmxznsaeyhshqxd.streamlit.app/)*
 
 ---
 
