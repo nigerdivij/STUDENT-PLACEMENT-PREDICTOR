@@ -1,6 +1,8 @@
 # 🎓 Student Placement Predictor
 
 A machine learning web app that predicts whether a student is likely to be placed, based on academic performance, skills, and internship experience — with a live probability score and a clean Streamlit interface.
+![Uploading InvincibleConquestGIF.gif…]()
+
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
